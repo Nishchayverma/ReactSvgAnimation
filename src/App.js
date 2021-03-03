@@ -155,13 +155,11 @@ function App() {
 
 						</div>
 					</div>
-					<div className="col-12 ">
-				<model-viewer src="./model.glb" alt="A 3D model of an astronaut" auto-rotate camera-controls ar></model-viewer>
-				</div>
-				
+
+
 				</div>
 
-				
+
 			</div>
 
 
