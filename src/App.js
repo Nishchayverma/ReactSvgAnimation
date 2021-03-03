@@ -8,7 +8,7 @@ function App() {
 
 		ch++;
 
-		if (ch % 2 != 0) {
+		if (ch % 2 !== 0) {
 			document.getElementsByClassName("eyes")[0].style.fill = "#ff4d4d";
 			document.getElementsByClassName("eyes")[1].style.fill = "#ff4d4d";
 			document.getElementById("joint").style.opacity = "1";
