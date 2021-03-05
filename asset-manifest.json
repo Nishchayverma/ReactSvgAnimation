@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ReactSvgAnimation/static/css/main.f9ebfb47.chunk.css",
+    "main.js": "/ReactSvgAnimation/static/js/main.a83bc1bc.chunk.js",
+    "main.js.map": "/ReactSvgAnimation/static/js/main.a83bc1bc.chunk.js.map",
+    "runtime-main.js": "/ReactSvgAnimation/static/js/runtime-main.dd4e3bb3.js",
+    "runtime-main.js.map": "/ReactSvgAnimation/static/js/runtime-main.dd4e3bb3.js.map",
+    "static/js/2.4fc98979.chunk.js": "/ReactSvgAnimation/static/js/2.4fc98979.chunk.js",
+    "static/js/2.4fc98979.chunk.js.map": "/ReactSvgAnimation/static/js/2.4fc98979.chunk.js.map",
+    "index.html": "/ReactSvgAnimation/index.html",
+    "precache-manifest.8c965fce8d32dad1bb2c48936621f0b6.js": "/ReactSvgAnimation/precache-manifest.8c965fce8d32dad1bb2c48936621f0b6.js",
+    "service-worker.js": "/ReactSvgAnimation/service-worker.js",
+    "static/css/main.f9ebfb47.chunk.css.map": "/ReactSvgAnimation/static/css/main.f9ebfb47.chunk.css.map",
+    "static/js/2.4fc98979.chunk.js.LICENSE.txt": "/ReactSvgAnimation/static/js/2.4fc98979.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dd4e3bb3.js",
+    "static/js/2.4fc98979.chunk.js",
+    "static/css/main.f9ebfb47.chunk.css",
+    "static/js/main.a83bc1bc.chunk.js"
+  ]
+}
