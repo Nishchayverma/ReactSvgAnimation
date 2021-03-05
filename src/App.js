@@ -151,7 +151,7 @@ function App() {
 					<h1>DORAMON SVG</h1>
 					<div className="row">
 						<div className="col-md-12">
-							<button type="button" id="first-text" onClick={goHigh} class="btn btn-warning mt-4">DORAMON GO HIGH!!</button>
+							<button type="button" id="first-text" onClick={goHigh} class="btn btn-warning mt-4">DORAMON GO HIGH Bruhhh!!</button>
 
 						</div>
 					</div>
